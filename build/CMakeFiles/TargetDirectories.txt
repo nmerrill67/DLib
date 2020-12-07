@@ -1,0 +1,7 @@
+/home/nate/git/DLib/build/CMakeFiles/install/strip.dir
+/home/nate/git/DLib/build/CMakeFiles/edit_cache.dir
+/home/nate/git/DLib/build/CMakeFiles/DLib.dir
+/home/nate/git/DLib/build/CMakeFiles/rebuild_cache.dir
+/home/nate/git/DLib/build/CMakeFiles/list_install_components.dir
+/home/nate/git/DLib/build/CMakeFiles/install/local.dir
+/home/nate/git/DLib/build/CMakeFiles/install.dir
